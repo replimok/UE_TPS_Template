@@ -59,7 +59,9 @@ and some bug fixes
 
 ---
 DAY 6/5
+
 ! inventory full day !
+
 problem with buttons = 1 hour reworking shit, so Z index 1) 
 drag n drop was fast = 30 mins, but actions was bad = linking widget + component + slot = bad realization = 3 hours total 
 problems with drop world = 1 hour, just printing and understanding place where lost was, fun DUPE bugs)
