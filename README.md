@@ -17,6 +17,7 @@ crosshair = long load 3 times ~~ + bad folder movement caused bugs, so cleaning 
 
 gasp + rifle montage play problem 1 hour evening) )
 think problem inside ABP something with choosers - so search... 2 hours
+
 ---
 
 DAY 2/5
@@ -36,6 +37,7 @@ fire FIXED   yeay
 start zones  20 mins 
 
 ---
+
 DAY 4/5
 refactor + first zone + take damage interface  = not so better, but i like the way it = 2 hours 
 and fix bug fire self = 20 mins 
