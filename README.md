@@ -90,3 +90,5 @@ drag n drop was fast = 30 mins, but actions was bad = linking widget + component
 problems with drop world = 1 hour, just printing and understanding place where lost was, fun DUPE bugs)
 
 no more fuel, so its the END!
+
+[Journey Preview [NetMode_ Standalone 0] (64-bit_PC D3D SM6) 2025-08-11 19-17-39.mp4](Journey%20Preview%20%5BNetMode_%20Standalone%200%5D%20%2864-bit_PC%20D3D%20SM6%29%202025-08-11%2019-17-39.mp4)
